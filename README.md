@@ -1,16 +1,16 @@
-## Bem Vindo 👋
+## Welcome 👋
 
-🚀 Meu nome é Iago, e sou apaixonado por Robótica, Inteligência Artificial, exploração espacial.
+🚀 My name is Iago, and I’m passionate about robotics, artificial intelligence, and space exploration.
 
-📚 Cursando Engenharia de Software na Anhanguera (2025 - 2030)
+📚 Currently studying Software Engineering at Anhanguera University (2025 – 2030)
 
-🎯 Foco em aprender Programação, Sistemas Embarcados, Eletrônica e Análise de Dados.
+🎯 Focus on learning Programming, Embedded Systems, Electronics, and Data Analysis.
 
-🛠️ Prática de solda com placa perfurada e PCB, desenvolvimento circuito e diagramar com Kicad , práticas com Linguagem C para programar esp8266 e esp32 com RTOS_SDK, Implementação de Redes Neurais MLP do zero em C, uso de linguagem Lua para sistemas simples e desenvolvimento de scripts em R para análise de dados e manipulação de dados.
+🛠️ Practicing soldering with perforated sheets and PCBs. Developing circuits and creating diagrams using Kicad. Practicing programming in C to control the esp8266 and esp32 with the RTOS_SDK. Implementing MLP neural networks from scratch in C. Using Lua for simple systems, and developing R scripts for data analysis and manipulation.
 
 ---
 
-### Contatos
+### Contacts
 <div>
   <a href="https://www.upwork.com/freelancers/~0181882a09d9e3d1c8">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
@@ -28,12 +28,12 @@
 
 ---
 
-### Ferramentas e Tecnologias
+### Tools and Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
