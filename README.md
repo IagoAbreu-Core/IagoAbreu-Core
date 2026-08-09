@@ -4,14 +4,17 @@
 
 📚 Cursando Engenharia de Software na Anhanguera (2025 - 2030)
 
-🎯 Foco em aprender Programação, Sistemas Embarcados, Eletrônica e Análise de Dados Financeiros.
+🎯 Foco em aprender Programação, Sistemas Embarcados, Eletrônica e Análise de Dados.
 
-🛠️ Práticas com Linguagem C para programar esp8266 com RTOS_SDK, Implementação de Redes Neurais MLP do zero em C, prática de solda com placa perfurada, uso de linguagem Lua para sistemas simples e desenvolvimento de scripts em R para análise de dados e manipulação de dados financeiros.
+🛠️ Prática de solda com placa perfurada e PCB, desenvolvimento circuito e diagramar com Kicad , práticas com Linguagem C para programar esp8266 e esp32 com RTOS_SDK, Implementação de Redes Neurais MLP do zero em C, uso de linguagem Lua para sistemas simples e desenvolvimento de scripts em R para análise de dados e manipulação de dados.
 
 ---
 
 ### Contatos
 <div>
+  <a href="https://www.upwork.com/freelancers/~0181882a09d9e3d1c8">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/iago-abreu-fragoso-6837563a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
@@ -33,3 +36,4 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
